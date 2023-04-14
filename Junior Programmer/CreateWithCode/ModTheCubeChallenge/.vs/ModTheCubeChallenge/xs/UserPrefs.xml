@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B33C6F94-06ED-909F-09AD-114EDF1F0B4B}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bcdd09b8-8b0c-4c39-8a75-6c0b24834275" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ModTheCube/Cube.cs">
+    <Files>
+      <File FileName="Assets/ModTheCube/Cube.cs" Line="40" Column="101" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ModTheCubeChallenge" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="ModTheCube" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
