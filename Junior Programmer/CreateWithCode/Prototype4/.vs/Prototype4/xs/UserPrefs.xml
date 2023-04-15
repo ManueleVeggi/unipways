@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{8B7B1181-389B-F393-D088-AB81A6B0410E}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3dd81c2d-cf7c-4b4b-88f0-be90765be730" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Prototype4" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Challenge 4" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="RotateCameraX.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
