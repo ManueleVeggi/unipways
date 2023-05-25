@@ -1,6 +1,6 @@
 # Unity Pathways
 
-Projects and prototype developed during the attendance of Unity pathways
+Projects and prototypes developed during the attendance of Unity pathways
 
 | **Pathway**                                                            | **Project**                                                                                                                  | **Concluded on** |
 |------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------|
